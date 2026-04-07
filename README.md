@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Carolina Bernachea
-💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis
-🌎 Argentina / Remote  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Database+Performance+Specialist)
+
+💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis  
+🌎 Remote / Worldwide  
 
 ## 🧠 About Me
 Technical Systems Analyst with 8+ years of experience in SQL Server database administration and application support.  
