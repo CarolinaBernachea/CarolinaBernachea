@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Carolina Bernachea</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Database+Performance+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?color=00C2FF&size=24&center=true&vCenter=true&width=900&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Database+Performance+Specialist" />
 </p>
 
 <p align="center">
