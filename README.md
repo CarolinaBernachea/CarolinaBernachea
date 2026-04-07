@@ -1,9 +1,21 @@
-# 👋 Hi, I'm Carolina Bernachea
+<h1 align="center">👋 Hi, I'm Carolina Bernachea</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Support+Analyst+Specialist;Business+Insights)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Database+Performance+Specialist" />
+</p>
 
-💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis  
-🌎 Remote / Worldwide  
+<p align="center">
+💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis <br>
+🌎 Remote / Worldwide
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-Expert-red?logo=microsoftsqlserver" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data_Analysis-Advanced-blue" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Incident_Response-Strong-orange" />
+</p>
 
 ## 🧠 About Me
 Technical Systems Analyst with 8+ years of experience in SQL Server database administration and application support.  
