@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carolina Bernachea
 
-![Typing SVG](https://readme-typing-svg.demolab.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Database+Performance+Specialist)
+![Typing SVG](https://readme-typing-svg.demolab.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=SQL+Server+DBA;Data+Analyst;Incident+Troubleshooting;Support+Analyst+Specialist;Business+Insights)
 
 💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis  
 🌎 Remote / Worldwide  
