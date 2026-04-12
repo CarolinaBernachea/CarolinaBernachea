@@ -7,6 +7,7 @@
 <p align="center">
 💻 Data Analyst | SQL Server | Reporting | Business Insights | Incident Analysis <br>
 🌎 Remote / Worldwide
+🧠 Portfolio: https://carolinabernachea.github.io/portfolio/
 </p>
 
 <p align="center">
